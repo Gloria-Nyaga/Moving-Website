@@ -1,0 +1,198 @@
+.button{
+    width: 70px;
+    height: 70px;
+    background-color: blue;
+}
+#booking{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+#request {
+    background-color: rgb(81, 81, 201);
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-template-rows: 3em 3em;
+    grid-auto-rows: 3em;
+    padding:30px;
+
+
+}
+#book{
+    background-color: orange;
+}
+
+#header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 0.1%;
+}
+.email{
+    padding: 10px;
+    height: 50px;
+
+}
+#navbar{
+    display: grid;
+    grid-template-columns: 50% 40%  ;
+    text-align: center;
+}
+.icon{
+    height: 10px;
+}
+#home{
+    display:grid;
+    grid-template-columns: 15% 15% 15% 15% 15% 15%;
+    text-align: center;
+}
+#body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.home{
+    color: orange;
+}
+#container{
+    position: relative;
+    max-width: 100%;
+    margin:0 auto;
+    max-height: 50%;
+}
+#text-block{
+    position: absolute;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    bottom: 0;
+    height: 100%;
+    
+    
+}
+.learnabout{
+    color: orange;
+}
+.riaad{
+    color: orange;
+}
+#about{
+    display:grid;
+    grid-template-columns: 50% 60%;
+
+}
+#since{
+    display:flex;
+}
+#logoipsum{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
+    align-items: center;
+  
+}
+.services{
+    text-align: center;
+}
+.our{
+    color: orange;
+}
+#storage{
+    display:grid;
+    grid-template-columns: 25% 25% 25% 25% ;
+    text-align: center;
+}
+.todo{
+    background-color: rgb(84, 124, 175);
+}
+.read{
+    color: orange;
+}
+.readmore{
+    color: white;
+}
+#help{
+    display:grid;
+    grid-template-columns: 1fr 1fr ;
+}
+.movers{
+    background-color: orange;
+    margin-block: auto;
+    width: 100%;
+    padding: 40px; 
+    display:grid;
+    grid-template-columns: 1fr 1fr ; 
+}
+.now{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    width: 20%;
+}
+.blog{
+    text-align: center;
+}
+.ourblog{
+    color: orange;
+}
+#truck{
+    position: relative;
+
+}
+
+
+.Testimonials{
+    text-align: center;
+}
+.Testi{
+    color: orange;
+}
+#say{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+}
+.newsletter{
+    text-align: center;
+}
+.news{
+    color: orange;
+}
+#choose{
+    display:grid;
+    grid-template-columns: 1fr 1fr ;
+}
+.why{
+    color: orange;
+}
+.hesitate{
+    text-align: center;
+}
+
+#address{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr; 
+    text-align: center;
+    background-color: black;
+    color: rgb(150, 145, 145);
+   
+    
+}
+.white{
+    color: white;
+}
+.icons{
+    margin-top: 15px;
+}
+.admin{
+    position: relative;
+    margin:0 auto;
+}
+#text{
+    position: absolute;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 300px;
+    height: 250px;
+    
+
+}
